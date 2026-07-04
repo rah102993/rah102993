@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RaheemahLartey  
-- 👀 I’m interested in everything data, and i'm an aspiring Data Engineer.
-- 🌱 I’m a certified data analyst, and i'm currently studying Data Science with ALX Ghana.
-- 💞️ I’m looking to collaborate on data analytics/data science projects.
+- 👀 I’m transitioning into Cybersecurity
+- 🌱 I’m a certified data analyst, and i'm currently studying Cybersecurity with 10alytics.
+- 💞️ I’m looking to collaborate on cybersecurity projects.
 - 📫 You can reach me via e-mail: raheemahlartey2012@yahoo.com
 - or LinkedIn: www.linkedin.com/in/raheemah-lartey-a3488573
 
