@@ -31,6 +31,8 @@ The investigation produced a high-severity Wazuh alert (Rule 87105, Level 12), w
 
 📂 [View Investigation Report and Screenshots](https://github.com/rah102993/wazuh-soc-malware-investigation)
 
+---
+
 ### 🛡️ [NovaCare Health SOC Breach Investigation](https://github.com/rah102993/novacare-health-soc-breach-investigation)
 
 Conducted a simulated SOC investigation involving SSH brute-force activity, successful authentication, and subsequent privileged activity. Correlated Wazuh alerts with native Linux logs and mapped observed security events to MITRE ATT&CK.
