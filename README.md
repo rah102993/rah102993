@@ -21,6 +21,16 @@ My portfolio documents practical cybersecurity labs where I analyze security ale
 
 ## 🔎 Featured Cybersecurity Projects
 
+### 🛡️ [Wazuh SOC Malware Investigation — FIM, EICAR Detection & VirusTotal](https://github.com/rah102993/wazuh-soc-malware-investigation)
+
+Conducted a simulated SOC investigation using Wazuh SIEM and Ubuntu Linux. Configured real-time File Integrity Monitoring (FIM), validated detection using the harmless EICAR antivirus test file, and investigated file integrity alerts using cryptographic hashes and VirusTotal threat intelligence.
+
+The investigation produced a high-severity Wazuh alert (Rule 87105, Level 12), with VirusTotal reporting 65 detections out of 67 engines. Manually removed the test file and verified that Wazuh recorded the deletion event.
+
+**Skills:** SOC Alert Investigation · Wazuh SIEM · Linux Security · File Integrity Monitoring · VirusTotal · Threat Intelligence · Incident Response · Evidence Documentation
+
+📂 [View Investigation Report and Screenshots](https://github.com/rah102993/wazuh-soc-malware-investigation)
+
 ### 🛡️ [NovaCare Health SOC Breach Investigation](https://github.com/rah102993/novacare-health-soc-breach-investigation)
 
 Conducted a simulated SOC investigation involving SSH brute-force activity, successful authentication, and subsequent privileged activity. Correlated Wazuh alerts with native Linux logs and mapped observed security events to MITRE ATT&CK.
